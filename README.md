@@ -23,4 +23,4 @@ quant-analysis-social/
    pip install -r requirements.txt
    ```
 
-ноутбук можно открыть в браузере командой `jupyter notebook` из папки проекта.
+ноутбук можно открыть в браузере командой `python -m notebook` из папки проекта.
